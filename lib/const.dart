@@ -3,7 +3,7 @@ import 'dart:math';
 const bar = 10000;
 const double atm = 1.0123 * bar;
 const list = [1, 2, 3];
-final list2 = list.map((v) => pow(v, 2));
+final list2 = list.map((v) => pow(v, 3));
 
 stringInter() {
   var s = 'string interpolation';
