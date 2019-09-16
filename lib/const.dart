@@ -3,6 +3,10 @@ import 'dart:math';
 const bar = 10000;
 const double atm = 1.0123 * bar;
 const list = [1, 2, 3];
+
+///
+/// LIST2
+///
 final list2 = list.map((v) => pow(v, 3));
 
 stringInter() {
@@ -15,6 +19,7 @@ stringInter() {
           'STRING INTERPOLATION is very handy!');
 }
 
+/// SPREAD
 List<int> spreadOperator() {
   var list = [1, 2, 3];
   var list2 = [0, ...list];
