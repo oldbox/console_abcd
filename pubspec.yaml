@@ -1,7 +1,7 @@
 name: console_abcd
 description: A sample command-line application.
 version: 1.0.0
-homepage: https://www.tanjiasong.com
+homepage: https://github.com/oldbox/console_abcd
 author: song <tanjiasong@gmail.com>
 
 environment:
