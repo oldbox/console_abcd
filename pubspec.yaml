@@ -1,5 +1,5 @@
 name: console_abcd
-description: A sample command-line application.
+description: A simple Dart package to have a sample command-line application for all the platforms.
 version: 1.0.3
 homepage: https://github.com/oldbox/console_abcd
 author: song <tanjiasong@gmail.com>
